@@ -1,5 +1,5 @@
-# Whole-Maize-Dataset
-A dataset consisting of Whole Maize Plant images gotten from 
+# Maize Plant Dataset
+The data acquired from visitation to  eighteen different maize farmlands within four Local Government Areas of Niger State, Nigeria, West Africa. The data were captured within the timeframe from 21st February 2022 to 6th March 2022 for dry season and 1st August to 13th August 2022 for wet season weed survey by a team of researchers from the Precision Agriculture Research Group of the Federal University of Technology, Minna, Nigeria.
 
 # Dataset Location 
 * [Wet Season](https://drive.google.com/drive/folders/1sxUXtNtIdIGFOt0q5D-HT79Q3NydFx6J?usp=sharing)
